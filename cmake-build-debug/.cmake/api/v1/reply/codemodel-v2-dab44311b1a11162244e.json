@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Strazzera_CSE222Project2_BST",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Strazzera_CSE222Project2_BST::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Strazzera_CSE222Project2_BST-Debug-f103079de4f3c592b864.json",
+					"name" : "Strazzera_CSE222Project2_BST",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/luke-angelostrazzera/CLionProjects/Strazzera-CSE222Project2-BST/cmake-build-debug",
+		"source" : "/Users/luke-angelostrazzera/CLionProjects/Strazzera-CSE222Project2-BST"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

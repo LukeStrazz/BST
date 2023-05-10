@@ -1,0 +1,3 @@
+/Users/luke-angelostrazzera/CLionProjects/Strazzera-CSE222Project2-BST/cmake-build-debug/CMakeFiles/Strazzera_CSE222Project2_BST.dir
+/Users/luke-angelostrazzera/CLionProjects/Strazzera-CSE222Project2-BST/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/luke-angelostrazzera/CLionProjects/Strazzera-CSE222Project2-BST/cmake-build-debug/CMakeFiles/rebuild_cache.dir
